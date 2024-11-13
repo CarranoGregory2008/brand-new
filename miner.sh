@@ -5,7 +5,7 @@ while true
 do
   echo "Memulai proses menambang..."
   ore \
-    --rpc https://rpc.ironforge.network/mainnet?apiKey=01J4NJDYJXSGJYE3AN6VXEB5VR \
+    --rpc https://rpc.ironforge.network/mainnet \
     --keypair /content/brand-new/id.json \
     --priority-fee 1 \
     mine \
