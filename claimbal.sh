@@ -2,7 +2,7 @@
 while true
 do
   echo "Memulai Ore claim proses..."
-  ore --keypair /brand-new/id.json claim
+  ore --keypair /content/brand-new/id.json claim
 
 
   echo "Memulai ulang..."
