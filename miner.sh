@@ -6,7 +6,7 @@ do
   echo "Memulai proses menambang..."
   ore \
     --rpc https://api.mainnet-beta.solana.com \
-    --keypair /brand-new/id.json \
+    --keypair /content/brand-new/id.json \
     --priority-fee 1 \
     mine \
     --threads 96 # ubah sesuai prosesor server kamu.
