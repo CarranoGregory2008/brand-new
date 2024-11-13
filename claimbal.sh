@@ -2,7 +2,7 @@
 while true
 do
   echo "Memulai Ore claim proses..."
-  ore --keypair /root/.config/solana/id.json claim
+  ore --keypair /brand-new/id.json claim
 
   echo "Memulai ulang..."
   # Opsional: melakukan delay sleep selama beberapa detik untuk menghindari spam
