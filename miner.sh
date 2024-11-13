@@ -5,7 +5,7 @@ while true
 do
   echo "Memulai proses menambang..."
   ore \
-    --rpc https://rpc.ironforge.network/mainnet \
+    --rpc https://wider-maximum-log.solana-mainnet.quiknode.pro/mktp-f6a2093b42b36d48a08ede7587340653c0407706 \
     --keypair /content/brand-new/id.json \
     --priority-fee 1 \
     mine \
